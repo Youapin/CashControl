@@ -12,7 +12,7 @@ class AmountSpentController extends Controller
      */
     public function index()
     {
-        // NÃO HAVERÁ INDEX DE NADA EM VALORES GASTOS
+        // NÃO HAVERÁ INDEX DE NADA EM VALORES GASTOS.
     }
 
     /**
